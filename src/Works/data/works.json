@@ -1,135 +1,154 @@
 [
   {
-    "artistBrand":"Aespa",
-    "title":"Rich Man",
-    "category":"MusicVideo",
-    "year":2025,
-    "thumb":"https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/0817_chicken1_KontextEdits1.png"
+    "artistBrand": "Aespa",
+    "title": "Rich Man",
+    "category": "MusicVideo",
+    "year": 2025,
+    "thumb": "https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/0817_chicken1_KontextEdits1.png",
+    "link": "/rich-man"
   },
   {
-    "artistBrand":"Cosmosy",
-    "title":"Physics",
-    "category":"MusicVideo",
-    "year":2025,
-    "thumb":"https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/0817_chicken1_KontextEdits1.png"
+    "artistBrand": "Cosmosy",
+    "title": "Physics",
+    "category": "MusicVideo",
+    "year": 2025,
+    "thumb": "https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/0817_chicken1_KontextEdits1.png",
+    "link": "/physics"
   },
   {
-    "artistBrand":"Jo1",
-    "title":"Handz In My Pocket",
-    "category":"MusicVideo",
-    "year":2025,
-    "thumb":"https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/0817_chicken1_KontextEdits1.png"
+    "artistBrand": "Jo1",
+    "title": "Handz In My Pocket",
+    "category": "MusicVideo",
+    "year": 2025,
+    "thumb": "https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/0817_chicken1_KontextEdits1.png",
+    "link": "/handz-in-my-pocket"
   },
   {
-    "artistBrand":"Ive",
-    "title":"Secret,Cupid",
-    "category":"Trailer",
-    "year":2025,
-    "thumb":"https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/imageTest01.png"
+    "artistBrand": "Ive",
+    "title": "Secret,Cupid",
+    "category": "Trailer",
+    "year": 2025,
+    "thumb": "https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/imageTest01.png",
+    "link": "/secret-cupid"
   },
   {
-    "artistBrand":"Ive",
-    "title":"IVE SECRET",
-    "category":"Coming soon video",
-    "year":2025,
-    "thumb":"https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/imageTest01.png"
+    "artistBrand": "Ive",
+    "title": "IVE SECRET",
+    "category": "Coming soon video",
+    "year": 2025,
+    "thumb": "https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/imageTest01.png",
+    "link": "/ive-secret"
   },
   {
-    "artistBrand":"Nct Dream",
-    "title":"We Don't Need Roads",
-    "category":"Trailer",
-    "year":2025,
-    "thumb":"https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/imageTest01.png"
+    "artistBrand": "Nct Dream",
+    "title": "We Don't Need Roads",
+    "category": "Trailer",
+    "year": 2025,
+    "thumb": "https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/imageTest01.png",
+    "link": "/we-dont-need-roads"
   },
   {
-    "artistBrand":"Close Your Eyes",
-    "title":"Snowy Summer",
-    "category":"MusicVideo",
-    "year":2025,
-    "thumb":"https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/imageTest01.png"
+    "artistBrand": "Close Your Eyes",
+    "title": "Snowy Summer",
+    "category": "MusicVideo",
+    "year": 2025,
+    "thumb": "https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/imageTest01.png",
+    "link": "/snowy-summer"
   },
   {
-    "artistBrand":"Ive",
-    "title":"Secret,Cupid",
-    "category":"Trailer",
-    "year":2025,
-    "thumb":"https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/imageTest01.png"
+    "artistBrand": "Ive",
+    "title": "Secret,Cupid",
+    "category": "Trailer",
+    "year": 2025,
+    "thumb": "https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/imageTest01.png",
+    "link": "/secret-cupid"
   },
   {
-    "artistBrand":"All Day Project",
-    "title":"Famous",
-    "category":"MusicVideo",
-    "year":2025,
-    "thumb":"https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/imageTest01.png"
+    "artistBrand": "All Day Project",
+    "title": "Famous",
+    "category": "MusicVideo",
+    "year": 2025,
+    "thumb": "https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/imageTest01.png",
+    "link": "/famous"
   },
   {
-    "artistBrand":"Hearts2Hearts",
-    "title":"Style",
-    "category":"MusicVideo, Webpage",
-    "year":2025,
-    "thumb":"https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/imageTest01.png"
+    "artistBrand": "Hearts2Hearts",
+    "title": "Style",
+    "category": "MusicVideo, Webpage",
+    "year": 2025,
+    "thumb": "https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/imageTest01.png",
+    "link": "/style"
   },
   {
-    "artistBrand":"Doyoung",
-    "title":"In A Soar Dream",
-    "category":"HighlightMedly",
-    "year":2025,
-    "thumb":"https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/imageTest01.png"
+    "artistBrand": "Doyoung",
+    "title": "In A Soar Dream",
+    "category": "HighlightMedly",
+    "year": 2025,
+    "thumb": "https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/imageTest01.png",
+    "link": "/in-a-soar-dream"
   },
   {
-    "artistBrand":"P1Harmony",
-    "title":"DUH!",
-    "category":"MusicVideo",
-    "year":2025,
-    "thumb":"https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/imageTest01.png"
+    "artistBrand": "P1Harmony",
+    "title": "DUH!",
+    "category": "MusicVideo",
+    "year": 2025,
+    "thumb": "https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/imageTest01.png",
+    "link": "/duh"
   },
   {
-    "artistBrand":"P1Harmony",
-    "title":"A Hero Should Be Heroic",
-    "category":"Trailer",
-    "year":2025,
-    "thumb":"https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/imageTest01.png"
+    "artistBrand": "P1Harmony",
+    "title": "A Hero Should Be Heroic",
+    "category": "Trailer",
+    "year": 2025,
+    "thumb": "https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/imageTest01.png",
+    "link": "/a-hero-should-be-heroic"
   },
   {
-    "artistBrand":"Ateez Mingi",
-    "title":"Autobahn",
-    "category":"MusicVideo",
-    "year":2025,
-    "thumb":"https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/imageTest01.png"
+    "artistBrand": "Ateez Mingi",
+    "title": "Autobahn",
+    "category": "MusicVideo",
+    "year": 2025,
+    "thumb": "https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/imageTest01.png",
+    "link": "/autobahn"
   },
   {
-    "artistBrand":"J-HOPE",
-    "title":"Sweet Dreams",
-    "category":"MusicVideo",
-    "year":2025,
-    "thumb":"https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/imageTest01.png"
+    "artistBrand": "J-HOPE",
+    "title": "Sweet Dreams",
+    "category": "MusicVideo",
+    "year": 2025,
+    "thumb": "https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/imageTest01.png",
+    "link": "/sweet-dreams"
   },
   {
-    "artistBrand":"Hearts2Hearts",
-    "title":"The Chase",
-    "category":"MusicVideo",
-    "year":2025,
-    "thumb":"https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/imageTest01.png"
+    "artistBrand": "Hearts2Hearts",
+    "title": "The Chase",
+    "category": "MusicVideo",
+    "year": 2025,
+    "thumb": "https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/imageTest01.png",
+    "link": "/the-chase"
   },
   {
-    "artistBrand":"Hearts2Hearts",
-    "title":"Chase Your Choice",
-    "category":"DebutTrailer",
-    "year":2025,
-    "thumb":"https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/imageTest01.png"
+    "artistBrand": "Hearts2Hearts",
+    "title": "Chase Your Choice",
+    "category": "DebutTrailer",
+    "year": 2025,
+    "thumb": "https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/imageTest01.png",
+    "link": "/chase-your-choice"
   },
   {
-    "artistBrand":"ONF",
-    "title":"The Stranger",
-    "category":"MusicVideo",
-    "year":2025,
-    "thumb":"https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/imageTest01.png"
+    "artistBrand": "ONF",
+    "title": "The Stranger",
+    "category": "MusicVideo",
+    "year": 2025,
+    "thumb": "https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/imageTest01.png",
+    "link": "/the-stranger"
   },
   {
-    "artistBrand":"&Team",
-    "title":"Deer Hunter",
-    "category":"MusicVideo",
-    "year":2025,
-    "thumb":"https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/imageTest01.png"
+    "artistBrand": "&Team",
+    "title": "Deer Hunter",
+    "category": "MusicVideo",
+    "year": 2025,
+    "thumb": "https://raw.githubusercontent.com/ypnida/neither.i.web/main/src/Works/image/imageTest01.png",
+    "link": "/deer-hunter"
   }
 ]
